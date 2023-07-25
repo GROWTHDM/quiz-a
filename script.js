@@ -95,5 +95,5 @@ const queryString = window.location.search;
 console.log(queryString);
 
 function getParams() {
-    window.open('https://gerador7k.com/newappaposta/' + `${queryString}`);
+    window.open('https://gerador7k.com/a-vsl/' + `${queryString}`);
 }
